@@ -25,7 +25,7 @@ namespace ConfigClient
                     "https://portal2016-22.euphoric-etcd-31.capital-one-3.composedb.com:17174"
                      },
                     Username = "root",
-                    Password = "QWCLAUAWRMMDRHGW",
+                    Password = "changeme",
                     RootKey = "/myapp"
                 })
                 .AddEnvironmentVariables();
